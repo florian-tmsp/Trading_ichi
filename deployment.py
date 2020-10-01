@@ -29,3 +29,4 @@ if __name__ == "__main__":
 	init = 86401 - hours*3600 - minutes*60 - seconds
 	time.sleep(init)
 	main(ichi,period,gd)
+# Automatisation du processus via Cron
