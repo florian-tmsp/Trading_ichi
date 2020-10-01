@@ -1,2 +1,4 @@
 # Trading_ichi
-Algorithme ded trading basé sur l'indicateur technique ichimoku
+Algorithme de trading basé sur l'indicateur technique ichimoku (Stratégie cachée)
+
+
